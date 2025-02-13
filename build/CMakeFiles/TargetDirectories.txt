@@ -1,0 +1,3 @@
+/Users/ericbrown/Documents/githubrepo/MiniSearchEngine/build/CMakeFiles/MiniSearchEngine.dir
+/Users/ericbrown/Documents/githubrepo/MiniSearchEngine/build/CMakeFiles/edit_cache.dir
+/Users/ericbrown/Documents/githubrepo/MiniSearchEngine/build/CMakeFiles/rebuild_cache.dir
